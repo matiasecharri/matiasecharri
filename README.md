@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @matiasecharri
 - 👀 I’m interested in becoming Full Stack dev in 2022
 - 🌱 I’m currently learning Javascript and another languages
-- ⌛ At least 3hs - 10hs at day everyday 🤯
+- ⌛ At least 3hs to 10hs at day everyday 🤯
 
 <!---
 matiasecharri/matiasecharri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
