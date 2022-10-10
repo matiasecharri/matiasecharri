@@ -5,17 +5,17 @@
 ***const matias*** *= **{**
 
 
-name:"Matias",
+*name:"Matias",*
 
-surname:"Echarri",
+*surname:"Echarri",*
 
-age: 23,
+*age: 23,*
 
-from: "Buenos Aires" 🌍​
+*from: "Buenos Aires" 🌍​*
 
-actuallyStudying: true,
+*actuallyStudying: true,*
 
-likes: ["Developing🌊​", "Design☄️", "Games 🎮", "Food🍜", "Cold❄️"],
+*likes: ["Developing🌊​", "Design☄️", "Games 🎮", "Food🍜", "Cold❄️"],*
 
 ***};***
 
