@@ -25,7 +25,7 @@
 
 *- 🔭 I’m currently investing 3hs at 10hs per day to improve my dev skills.* 
 
-![*let moreInfo = "lookDown"*](https://64.media.tumblr.com/7dfbef26b0388a91922e9727650b51e9/tumblr_ooy2i7l8Du1vefoo6o5_500.gifv)
+![*let moreInfo = "lookDown"*](https://i.pinimg.com/originals/22/26/a5/2226a53e0be2f56c78982ae08f493f3c.jpg)
 
 *Instagram: @matiasecharri_*
 
