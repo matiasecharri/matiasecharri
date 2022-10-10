@@ -17,6 +17,11 @@
 
 *likes: ["Developing🌊​", "Design☄️", "Games 🎮", "Food🍜", "Cold❄️"],*
 
+
+**Skills:*** *HTML - CSS = ["Bootstrap", "Tailwind"] - Javascript  (in progress) - Photoshop - Lightroom.*
+
+***Languages:*** *Spanish (native) - English (fluid).*
+
 ***};***
 
 
@@ -24,9 +29,7 @@
 
 
 
-**Skills:*** *HTML - CSS = ["Bootstrap", "Tailwind"] - Javascript  (in progress) - Photoshop - Lightroom.*
-***Languages:*** *Spanish (native) - English (fluid).*
-**};***
+
 
 *- 🔭 I’m currently investing 3hs at 10hs per day to improve my dev skills.* 
 
