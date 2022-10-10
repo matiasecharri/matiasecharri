@@ -19,7 +19,7 @@
 
    ***🌊 Skills:*** *HTML - CSS = ["Bootstrap", "Tailwind"] - Javascript  (in progress) - Photoshop - Lightroom.*
 
-   ***🌊 Languages:*** *Spanish (native) - English (fluid).*
+   ***🌊 Languages:*** *Spanish (native) - English (medium/fluid).*
 
 
 *- 🔭 If you want to contact me just click here and feel free to send a message!* 
