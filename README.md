@@ -15,6 +15,7 @@ from: "Buenos Aires" 🌍​
 
 actuallyStudying: true,
 
+**}**
 
 
 
