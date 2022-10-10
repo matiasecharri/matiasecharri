@@ -15,14 +15,14 @@
 
 *actuallyStudying: true,*
 
-*likes: ["Developing🌊​", "Design☄️", "Games 🎮", "Food🍜", "Cold❄️"],*
+*likes: ["Developing🌊​", "Games 🎮", "Food🍜", "Cold❄️"],*
 
 ***};***
 
 
-***Skills:*** *HTML - CSS = ["Bootstrap", "Tailwind"] - Javascript  (in progress) - Photoshop - Lightroom.*
+***📌Skills:*** *HTML - CSS = ["Bootstrap", "Tailwind"] - Javascript  (in progress) - Photoshop - Lightroom.*
 
-***Languages:*** *Spanish (native) - English (fluid).*
+***📌Languages:*** *Spanish (native) - English (fluid).*
 
 
 
