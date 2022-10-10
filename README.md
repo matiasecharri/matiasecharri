@@ -11,6 +11,8 @@ age: 23,
 from: "Buenos Aires" 🌍​
 actuallyStudying: true,
 likes: ["Developing🌊​", "Design☄️", "Games 🎮", "Food🍜", "Cold❄️"],
+
+
 **Skills:*** *HTML - CSS = ["Bootstrap", "Tailwind"] - Javascript  (in progress) - Photoshop - Lightroom.*
 ***Languages:*** *Spanish (native) - English (fluid).*
 **};***
