@@ -30,7 +30,16 @@
       
       
       
+        
       
+      
+      
+      
+      
+      
+      
+      
+    
       
       
       
@@ -41,12 +50,45 @@
   
     
     surname:"Echarri",
-      
+        
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    
     
     age: 23,
       
+      
+      
+      
+      
+      
+      
+      
+    
+      
     
 from: "Buenos Aires" 🌍​
+  
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    
   
     
 actuallyStudying: true,
