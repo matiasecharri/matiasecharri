@@ -30,6 +30,7 @@
 
 
 ![*let moreInfo = "lookDown"*](https://media.tenor.com/ZvOCunW56s4AAAAd/rain-pixel.gifv)
+
 What i hear, i forget. What i see i remember. What i do i understand.
 
 
