@@ -1,5 +1,5 @@
-### *Hi there 👋! my name is Matias Echarri*
-#### *let moreInfo = "lookDown"*
+
+#### *Hi there, thanks for taking the time to view my profile!"*
 ![*let moreInfo = "lookDown"*](https://i.pinimg.com/originals/22/26/a5/2226a53e0be2f56c78982ae08f493f3c.jpg)
 
 ***const matias*** *= **{**
