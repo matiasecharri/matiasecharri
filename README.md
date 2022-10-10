@@ -1,5 +1,7 @@
 
 #### *👋🏻​ Hi there, thanks for visiting my profile!...*
+### Hi there 👋, *My name is Matias Echarri*
+#### *let moreInfo = "lookDown"*
 
      ***🫀 const matias =*** ***{***
 
