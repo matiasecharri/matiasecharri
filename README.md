@@ -11,11 +11,11 @@
 
 *age: 23,*
 
-*from: "Buenos Aires" 🌍​*
+*from: "Buenos Aires" 🌍,*
 
 *actuallyStudying: true,*
 
-*likes: ["Developing🌊​", "Games 🎮", "Food🍜", "Cold❄️"],*
+*likes: ["Developing🌊", "Games 🎮", "Food🍜", "Cold❄️"],*
 
 ***};***
 
