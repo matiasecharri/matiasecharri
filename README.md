@@ -10,12 +10,8 @@
       
                   
          
-         name: "Matias",                            
-                       
-                       
-         surname:"Echarri",                    
-                              
-                              
+         name: "Matias",                
+         surname:"Echarri",                          
          age: 23,
        
           
