@@ -1,6 +1,6 @@
 
 #### *👋🏻​ Hi there, thanks for visiting my profile!...*
-### 👋🏻​ Hi there, thanks for visiting my profile!...*
+*### 👋🏻​ Hi there, thanks for visiting my profile!...
 #### *let moreInfo = "lookDown"*
 
      ***🫀 const matias =*** ***{***
