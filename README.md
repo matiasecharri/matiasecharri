@@ -1,8 +1,6 @@
 
 #### *👋🏻​ Hi there, thanks for visiting my profile!...*
 
-![*let moreInfo = "lookDown"*](https://i.pinimg.com/originals/37/bb/d2/37bbd287bcf9463c8d2580902a562f42.gif)
-
      ***🫀 const matias =*** ***{***
 
 
@@ -28,8 +26,9 @@
 *- 🔭 I’m currently investing 3hs at 10hs per day to improve my dev skills.* 
 
 
-
 *Instagram: @matiasecharri_*
+
+![*let moreInfo = "lookDown"*](https://i.pinimg.com/originals/37/bb/d2/37bbd287bcf9463c8d2580902a562f42.gif)
 
 
 
