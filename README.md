@@ -31,7 +31,7 @@
 
 ![*let moreInfo = "lookDown"*](https://media.tenor.com/ZvOCunW56s4AAAAd/rain-pixel.gifv)
 
-What i hear, i forget. What i see i remember. What i do i understand.
+*What i hear, i forget. What i see i remember. What i do i understand.*
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=matiasecharri&show_icons=true&locale=en&layout=compact" alt="matiasecharri" /></p>
