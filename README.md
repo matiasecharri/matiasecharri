@@ -15,7 +15,7 @@
 
 *actuallyStudying: true,*
 
-*likes: ["Developing🌊​", "Design☄️", "Games 🎮", "Food🍜", "Cold❄️"],*
+*likes: ["Developing", "Design", "Games", "Food", "Cold"],*
 
    ***};***
 
