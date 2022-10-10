@@ -3,7 +3,7 @@
 ![*let moreInfo = "lookDown"*](https://i.pinimg.com/originals/22/26/a5/2226a53e0be2f56c78982ae08f493f3c.jpg)
 
 ***const matias*** *= **{**
-name: "Matias",
+name:"Matias",
     surname:"Echarri",
     age: 23,
 from: "Buenos Aires" 🌍​
