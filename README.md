@@ -1,5 +1,6 @@
 
 #### *👋🏻​ Hi there, thanks for visiting my profile!...*
+![*let moreInfo = "lookDown"*](https://media.tenor.com/ZvOCunW56s4AAAAd/rain-pixel.gifv)
 
 
      ***🫀 const matias =*** ***{***
@@ -29,7 +30,7 @@
 
 *Instagram: @matiasecharri_*
 
-![*let moreInfo = "lookDown"*](https://media.tenor.com/ZvOCunW56s4AAAAd/rain-pixel.gifv)
+
 
 
 
