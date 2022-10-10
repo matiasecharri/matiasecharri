@@ -17,7 +17,7 @@
 
 *likes: ["Developing🌊​", "Design☄️", "Games 🎮", "Food🍜", "Cold❄️"],*
 
-*Skills: *HTML - CSS = ["Bootstrap", "Tailwind"] - Javascript  (in progress) - Photoshop - Lightroom.*
+*Skills:* *HTML - CSS = ["Bootstrap", "Tailwind"] - Javascript  (in progress) - Photoshop - Lightroom.*
 
 *Languages: Spanish (native) - English (fluid).*
 
