@@ -23,10 +23,10 @@
 
    ***🌊 My Works:*** 
    
-                  *Mindy Petshop* - https://matiasecharri.github.io/MindyPetshop/ 
+  *Mindy Petshop -* https://matiasecharri.github.io/MindyPetshop/ 
 
 
-                  *Amazing Events* - https://matiasecharri.github.io/AmazingEvents1/
+  *Amazing Events -* https://matiasecharri.github.io/AmazingEvents1/
  
 
 
