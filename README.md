@@ -21,11 +21,12 @@
 
    ***🌊 Languages:*** *Spanish (native) - English (medium).*
 
-   ***🌊 Works:*** 
-*Mindy Petshop* - https://matiasecharri.github.io/MindyPetshop/ 
+   ***🌊 My Works:*** 
+   
+                  *Mindy Petshop* - https://matiasecharri.github.io/MindyPetshop/ 
 
 
-*Amazing Events* - https://matiasecharri.github.io/AmazingEvents1/
+                  *Amazing Events* - https://matiasecharri.github.io/AmazingEvents1/
  
 
 
