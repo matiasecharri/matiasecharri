@@ -21,7 +21,9 @@
 
    ***🌊 Languages:*** *Spanish (native) - English (medium).*
 
-   ***🌊 Works:*** https://matiasecharri.github.io/MindyPetshop/ 
+   ***🌊 Works:*** 
+https://matiasecharri.github.io/MindyPetshop/ 
+https://matiasecharri.github.io/AmazingEvents1/
  
 
 
