@@ -2,6 +2,7 @@
 #### *👋🏻​ Hi there, thanks for visiting my profile!...*  
       ***🫀 const matias =*** ***{***
 
+https://www.linkedin.com/in/matias-angulegui-echarri-5202a9239/
 
 *name:"Matias",*
 
