@@ -16,7 +16,7 @@
 
    ***};***
 
-   ***🌊 Skills:*** *HTML - CSS = ["Bootstrap", "Tailwind"] - Javascript - Photoshop - Lightroom.*
+   ***🌊 Skills:*** *HTML - CSS = ["Bootstrap", "Tailwind", "AOS"] - Javascript - Photoshop - Lightroom.*
 
    ***🌊 Languages:*** *Spanish (native) - English (medium).*
 
