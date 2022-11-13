@@ -10,8 +10,6 @@
 
 *from: "Buenos Aires🌍",*
 
-*actuallyStudying: true,*
-
 *likes: ["Developing", "Design", "Games", "Food", "Cold","UL/UX"],*
 
    ***};***
