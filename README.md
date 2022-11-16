@@ -18,7 +18,7 @@
 
    ***🌊 Languages:*** *Spanish (native) - English (medium).*
 
-   ***🌊 My Works:*** 
+   ***🌊Proyects:*** 
    
   *Mindy Petshop -* https://matiasecharri.github.io/MindyPetshop/ 
 
