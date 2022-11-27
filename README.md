@@ -2,7 +2,7 @@
 #### *👋🏻​ Hi there, thanks for visiting my profile!...*  
       ***🫀 const matias =*** ***{***
 
-*name:"Matiasssss",*
+*name:"Matias",*
 
 *surname:"Echarri",*
 
