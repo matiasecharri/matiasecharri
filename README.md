@@ -20,10 +20,9 @@
 
    ***🌊 Some projects:*** 
    
-  *Mindy Petshop -* https://my-tinerary-kingcatwo.vercel.app/home
+  *My Tinerary -* https://my-tinerary-kingcatwo.vercel.app/home
    
   *Mindy Petshop -* https://matiasecharri.github.io/MindyPetshop/ 
-
 
   *Amazing Events -* https://matiasecharri.github.io/AmazingEvents/
  
