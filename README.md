@@ -36,7 +36,7 @@ matiasecharri@hotmail.com
 </p>
 
 
-https://www.linkedin.com/in/matias-angulegui-echarri-5202a9239/
+https://www.linkedin.com/in/matias-angulegui-echarri-5202a9239/](https://www.linkedin.com/in/matias-echarri/
 
 
 ![*let moreInfo = "lookDown"*](https://media.tenor.com/ZvOCunW56s4AAAAd/rain-pixel.gifv)
