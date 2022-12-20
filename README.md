@@ -2,8 +2,8 @@
 #### *👋🏻​ Hi there, thanks for visiting my profile!...*  
       ***🫀 const matias =*** ***{***
 
-para tener cuadrado sin tener internet
-*name:"Matias",*
+
+*name:"Matias" para tener cuadrado sin tener internet,*
 
 *surname:"Echarri",*
 
