@@ -3,7 +3,7 @@
       ***🫀 const matias =*** ***{***
 
 
-*name:"Matias" para tener cuadrado sin tener internet,*
+*name:"Matias",*
 
 *surname:"Echarri",*
 
