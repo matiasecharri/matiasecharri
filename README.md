@@ -25,7 +25,7 @@
    
   *Mindy Petshop -* https://matiasecharri.github.io/MindyPetshop/ 
 
-  *Amazing Events -* https://amazing-events-psi.vercel.app/
+  *Amazing Events -* https://amazing-events-matiasecharri.vercel.app/
  
 
 
