@@ -3,7 +3,7 @@
       ***🫀 const matias =*** ***{***
 
 
-*name:"Matias",*aaaaa
+*name:"Matias",*aaaaaa
 
 *surname:"Echarri",*
 
