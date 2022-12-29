@@ -11,14 +11,10 @@
 
 *from: "Buenos Aires🌍",*
 
-*likes: ["Developing", "Design", "Games", "Food", "Cold","UL/UX"],*
+*likes: ["Developing", "Design", "Games", "Food", "Cold","UI/UX"],*
 
    ***};***
-
-   ***🌊 Skills:*** *HTML - CSS = ["Bootstrap", "Tailwind", "AOS"] - Javascript - Photoshop - Lightroom.*
-
-   ***🌊 Languages:*** *Spanish (native) - English (medium).*
-
+  
    ***🌊 Some projects:*** 
    
   *MotorX -* https://motorx.vercel.app/ 
