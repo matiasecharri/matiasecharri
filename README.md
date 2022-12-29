@@ -16,7 +16,7 @@
    ***};***
   
   
-   ***🌊 Some projects:*** 
+  ***🌊 Some projects:*** 
    
   *MotorX -* https://motorx.vercel.app/ 
   
