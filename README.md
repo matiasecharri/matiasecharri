@@ -18,7 +18,7 @@
   
   ***🌊 Some projects:*** 
    
-  *MotorX -* https://motorx.vercel.app/ 
+  *MotorX -* https://motorx.vercel.app/
   
   *My Tinerary -* https://my-tinerary-kingcatwo.vercel.app/home
    
