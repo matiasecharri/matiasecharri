@@ -17,10 +17,15 @@
   
   
   ***🌊Some of my projects:*** 
-  *Nippon Bites -* https://motorx.vercel.app/](https://nippon-bites.vercel.app/
+
+  *Nippon Bites -* https://nippon-bites.vercel.app/
+
   *MotorX -* https://motorx.vercel.app/  
+
   *My Tinerary -* https://my-tinerary-kingcatwo.vercel.app/home   
+
   *Mindy Petshop -* https://matiasecharri.github.io/MindyPetshop/ 
+
   *Amazing Events -* https://amazing-events-matiasecharri.vercel.app/
  
 
