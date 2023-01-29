@@ -16,7 +16,7 @@
    ***};***
   
   
-  ***🌊Some of my projects:*** 
+***🔭 Some of my projects:*** 
 
   *Nippon Bites -* https://nippon-bites.vercel.app/
 
