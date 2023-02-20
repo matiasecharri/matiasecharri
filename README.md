@@ -9,7 +9,7 @@
 
 *age: 24,*
 
-*from: "Buenos Aires🌍",*
+*from: "Buenos Aires 🌍",*
 
 *likes: ["Developing", "Design", "Games", "Food", "Cold","UI/UX"],*
 
