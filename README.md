@@ -1,6 +1,6 @@
 
 #### *👋🏻​ Hi there, thanks for visiting my profile!...*  
-      ***🫀 const matisas =*** ***{***
+      ***🫀 const matias =*** ***{***
 
 
 *name:"Matias",*
