@@ -7,7 +7,7 @@
 
 *surname:"Echarri",*
 
-*age: 25,*
+*age: 24,*
 
 *from: "Buenos Aires 🌍",*
 
