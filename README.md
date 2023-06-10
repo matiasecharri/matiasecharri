@@ -19,7 +19,7 @@
 
 ***🔭 Some of my projects:*** 
 
-  *visualizer_00 -* https://nippon-bites.vercel.app/
+  *visualizer_00 -* https://visualizer-00.vercel.app/
 
   *Nippon Bites -* https://nippon-bites.vercel.app/
 
