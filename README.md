@@ -19,6 +19,8 @@
 
 ***🔭 Some of my projects:*** 
 
+  *visualizer_00 -* https://nippon-bites.vercel.app/
+
   *Nippon Bites -* https://nippon-bites.vercel.app/
 
   *MotorX -* https://motorx.vercel.app/  
