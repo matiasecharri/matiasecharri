@@ -1,5 +1,5 @@
 
-#### *👋🏻​ Hi there, thanks for visiting my profile!...*  
+#### *👋🏻​ Hi there! I'm Matias. Developer with a strong focus on aesthetic and modern applications.*  
       ***🫀 const matias =*** ***{***
 
 
@@ -11,7 +11,7 @@
 
 *from: "Buenos Aires 🌍",*
 
-*likes: ["Developing", "Design", "Games", "Food", "Cold","UI/UX"],*
+*likes: ["Developing", "Design", "Games", "Food", "Cold", "Futuristic UI"],*
 
    ***};***
   
