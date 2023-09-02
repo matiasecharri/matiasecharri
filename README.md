@@ -19,7 +19,7 @@
 
 ***🔭 Some of my projects:*** 
 
-- [**visualizer_00**](https://visualizer-00.vercel.app/)
+- [**visualizer-00**](https://visualizer-00.vercel.app/)
 - [**Nippon Bites**](https://nippon-bites.vercel.app/)
 - [**MotorX**](https://motorx.vercel.app/)
 - [**My Tinerary**](https://my-tinerary-kingcatwo.vercel.app/home)
