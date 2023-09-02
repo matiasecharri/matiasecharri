@@ -19,17 +19,13 @@
 
 ***🔭 Some of my projects:*** 
 
-  *visualizer_00 -* https://visualizer-00.vercel.app/
+- [**visualizer_00**](https://visualizer-00.vercel.app/)
+- [**Nippon Bites**](https://nippon-bites.vercel.app/)
+- [**MotorX**](https://motorx.vercel.app/)
+- [**My Tinerary**](https://my-tinerary-kingcatwo.vercel.app/home)
+- [**Mindy Petshop**](https://matiasecharri.github.io/MindyPetshop/)
+- [**Amazing Events**](https://amazing-events-matiasecharri.vercel.app/)
 
-  *Nippon Bites -* https://nippon-bites.vercel.app/
-
-  *MotorX -* https://motorx.vercel.app/  
-
-  *My Tinerary -* https://my-tinerary-kingcatwo.vercel.app/home   
-
-  *Mindy Petshop -* https://matiasecharri.github.io/MindyPetshop/ 
-
-  *Amazing Events -* https://amazing-events-matiasecharri.vercel.app/
  
 
 ![*let moreInfo = "lookDown"*](https://media.tenor.com/ZvOCunW56s4AAAAd/rain-pixel.gifv)
