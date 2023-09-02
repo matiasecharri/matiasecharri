@@ -26,7 +26,6 @@
 - [**Mindy Petshop**](https://matiasecharri.github.io/MindyPetshop/)
 - [**Amazing Events**](https://amazing-events-matiasecharri.vercel.app/)
 
- 
 
 ![*let moreInfo = "lookDown"*](https://media.tenor.com/ZvOCunW56s4AAAAd/rain-pixel.gifv)
 
