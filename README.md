@@ -1,5 +1,5 @@
 
-#### *👋🏻​ Hi there! I'm Matias Echarri. Developer with a strong focus on aesthetic and modern applications.*  
+#### *👋🏻​ Hi there! I'm Matias Echarri. Developer focused on aesthetic and modern applications.*  
       ***🫀 const matias =*** ***{***
 
 
