@@ -11,7 +11,7 @@
 
 *from: "Buenos Aires 🌍",*
 
-*likes: ["Developing", "Design", "Games", "Food", "Cold", "Futuristic UI"],*
+*likes: ["Developing", "Design", "Games", "Food", "Cold", "Future UI"],*
 
    ***};***
   
