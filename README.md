@@ -7,9 +7,7 @@
 
 *surname:"Echarri",*
 
-*age: 25,*
-
-*from: "Buenos Aires 🌍",*
+*country: "Buenos Aires 🌍",*
 
 *likes: ["Developing", "Design", "Games", "Food", "Cold", "Future UI"],*
 
