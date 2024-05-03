@@ -9,7 +9,7 @@
 
 *country: "Buenos Aires 🌍",*
 
-*likes: ["Developing", "Design", "Games", "Food", "Cold", "Future UI"],*
+*likes: ["Creative Development", "Design", "Games", "Food", "Cold", "Future UI"],*
 
    ***};***
   
