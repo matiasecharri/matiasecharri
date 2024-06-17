@@ -20,7 +20,6 @@
 - [**UI Fruit Filter**](https://ui-fruit-filter.vercel.app/)
 - [**visualizer-00**](https://visualizer-00.vercel.app/)
 - [**Nippon Bites**](https://nippon-bites.vercel.app/)
-- [**My Tinerary**](https://my-tinerary-kingcatwo.vercel.app/home)
 
 
 ![*let moreInfo = "lookDown"*](https://media.tenor.com/ZvOCunW56s4AAAAd/rain-pixel.gifv)
