@@ -7,7 +7,7 @@
 
 *surname:"Echarri",*
 
-*country: "Buenos Aires 🌍",*
+*location: "Buenos Aires 🌍",*
 
 *likes: ["Creative Development", "Design", "Games", "Food", "Cold", "Future UI"],*
 
