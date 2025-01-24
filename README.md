@@ -1,6 +1,6 @@
 
 #### *👋🏻​ Hi there! I'm Matias Echarri. Developer focused on aesthetic and modern applications.*  
-      ***🫀 const matias =*** ***{***
+      ***🫀 const matias: Human =*** ***{***
 
 
 *name:"Matias",*
