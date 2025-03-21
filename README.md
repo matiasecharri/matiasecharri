@@ -1,5 +1,7 @@
 
-#### *👋🏻​ Hey! Great to see you here. I'm Matias Echarri, a developer focused on aesthetic and modern applications.*  
+#### *👋🏻​ Hey! Great to see you here. I'm Matias Echarri, a front-end focused on aesthetic and modern applications.*  
+*Experienced in developing high-performance and visually rich web applications.*
+*I specialize in UI engineering, interactive animations, and front-end architecture.*
 
 ```ts
 🫀const matias: Human = {
