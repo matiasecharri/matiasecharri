@@ -9,7 +9,7 @@
 
 *location: "Buenos Aires 🌍",*
 
-*favs: ["TypeScrypt", "GSAP", "React"],*
+*favs: ["TypeScript", "GSAP", "React"],*
 
    ***};*** 
 
