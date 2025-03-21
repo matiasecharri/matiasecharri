@@ -1,18 +1,14 @@
 
 #### *👋🏻​ Hey! Great to see you here. I'm Matias Echarri, a developer focused on aesthetic and modern applications.*  
-      ***🫀 const matias: Human =*** ***{***
 
-
-*name:"Matias",*
-
-*surname:"Echarri",*
-
-*location: "Buenos Aires 🌍",*
-
-*favs: ["TypeScript", "GSAP", "React"],*
-
-   ***};*** 
-
+```ts
+🫀const matias: Human = {
+  name: "Matias",
+  surname: "Echarri",
+  location: "Buenos Aires 🌍",
+  favs: ["TypeScript", "GSAP", "React"],
+};
+```
 
 
 
