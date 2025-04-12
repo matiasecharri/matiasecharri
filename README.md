@@ -1,7 +1,7 @@
 
 #### *👋🏻​ Hey! Great to see you here. I'm Matias, a front-end focused on aesthetic and modern apps.*  
 *Experienced in developing high-performance and visually rich web applications.*
-*I specialize in UI engineering, interactive animations, and front-end architecture.*
+*I specialize in high-performance UI engineering, component libraries, and interactive front-end architecture.*
 
 ```ts
 🫀const matias: Human = {
