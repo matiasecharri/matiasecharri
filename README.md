@@ -1,5 +1,3 @@
-## Matias Echarri
-
 Frontend Engineer focused on architecture, design systems,
 and high-quality interactive experiences.
 
