@@ -1,33 +1,20 @@
 # Matias Echarri
 
-Frontend Engineer focused on high-quality interfaces, frontend architecture,
-design systems, and interactive web experiences.
+Frontend Engineer focused on frontend architecture, design systems,
+and high-quality interactive experiences.
 
-I build scalable digital products with React, Next.js, TypeScript, GSAP,
-and Three.js, with strong attention to performance, accessibility,
-responsive behavior, and visual detail.
+I build scalable products with React, Next.js, TypeScript, GSAP, and Three.js,
+with close attention to performance, accessibility, and visual detail.
 
 ## Current focus
 
-- Building high-traffic digital products and experimentation experiences
-- Designing scalable frontend architectures and reusable component systems
+- Building scalable applications with [React](https://react.dev/), [Next.js](https://nextjs.org/), and [TypeScript](https://www.typescriptlang.org/)
 - Creating motion-rich interfaces with [GSAP](https://gsap.com/) and [Three.js](https://threejs.org/)
-- Working primarily with [React](https://react.dev/), [Next.js](https://nextjs.org/), and [TypeScript](https://www.typescriptlang.org/)
-- Focusing on performance, accessibility, and high-fidelity implementation
-
-## Areas of expertise
-
-- Frontend architecture for scalable React applications
-- Design systems and reusable component libraries
-- Accessible, responsive, high-fidelity interfaces
-- Motion and interactive web experiences
-- Web performance optimization
-- Technical implementation of complex visual systems
+- Running CRO experiments across high-traffic digital products used by millions of people
 
 ## Core stack
 
 [ `TypeScript` ] · [ `React` ] · [ `Next.js` ] · [ `GSAP` ] · [ `Three.js` ]
-
 
 ## Say hi
 
