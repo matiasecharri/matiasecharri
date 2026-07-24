@@ -1,21 +1,19 @@
-Frontend Engineer focused on architecture, design systems,
-and high-quality interactive experiences.
+Frontend Engineer who **cares equally** about how a product is built and how it feels to use.
 
-I build scalable products with React, Next.js, TypeScript, GSAP, and Three.js,
-with close attention to performance, accessibility, and visual detail.
-
+I work with React, Next.js, and TypeScript on complex product flows, reusable frontend systems, and polished interactions with GSAP and Three.js. The goal is always the same: solid code, fast experiences, and details that feel intentional.
+<br><br><br>
 `CURRENT FOCUS`
 
-[+] Building scalable applications with [React](https://react.dev/), [Next.js](https://nextjs.org/), and [TypeScript](https://www.typescriptlang.org/)
+[+] Building reusable frontend systems with [React](https://react.dev/), [Next.js](https://nextjs.org/), and [TypeScript](https://www.typescriptlang.org/)
 
-[+] Creating motion-rich interfaces with [GSAP](https://gsap.com/) and [Three.js](https://threejs.org/)
+[+] Designing motion-rich interfaces and interactive 3D experiences with [GSAP](https://gsap.com/) and [Three.js](https://threejs.org/)
 
-[+] Shipping CRO experiments across high-traffic digital products used by millions of people
-
+[+] Shipping CRO experiments across high-traffic digital products used by millions of people, including [Change.org](https://www.change.org/) and [Cash App](https://cash.app/)
+<br><br><br>
 `CORE STACK`
 
 [ `TypeScript` ] · [ `React` ] · [ `Next.js` ] · [ `GSAP` ] · [ `Three.js` ]
-
+<br><br><br>
 `SAY HI ⤵`
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matias-echarri/)
