@@ -1,6 +1,6 @@
 Frontend Engineer who **cares equally** about how a product is built and how it feels to use.
 
-I work with React, Next.js, and TypeScript on complex product flows, reusable frontend systems, and polished interactions with GSAP and Three.js. The goal is always the same: solid code, fast experiences, and details that feel intentional.
+I build products that balance maintainability, performance, accessibility, and visual quality.<br> The goal is always the same: solid code and an experience that feels intentional.
 <br><br>
 `CURRENT FOCUS`
 
@@ -9,6 +9,8 @@ I work with React, Next.js, and TypeScript on complex product flows, reusable fr
 [+] Designing motion-rich interfaces and interactive 3D experiences with [GSAP](https://gsap.com/) and [Three.js](https://threejs.org/)
 
 [+] Shipping CRO experiments across high-traffic digital products used by millions of people, including [Change.org](https://www.change.org/) and [Cash App](https://cash.app/)
+
+[+] Using AI to move faster, never to outsource judgment or ownership.
 <br><br>
 `CORE STACK`
 
